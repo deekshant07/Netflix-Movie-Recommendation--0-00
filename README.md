@@ -2,7 +2,7 @@
 Netflix-Movie-Recommendation-(Collaborative based recommendation)
 ===================================================================
 
-![Netflix](/netflix.jpg)
+<img width=100% src="https://github.com/Raman-Raje/Netflix-Movie-Recommendation-/blob/master/netflix.jpg">
 
 ## Objective: 
 For the given movie and user predict the rating given by him/her to the movie
